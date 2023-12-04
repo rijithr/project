@@ -10,7 +10,6 @@ const jobListings = [
     
 ];
 
-
 function populateJobListings(jobs) {
     const jobListingsSection = document.getElementById('jobListings');
     jobListingsSection.innerHTML = ''; 
